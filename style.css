@@ -137,7 +137,7 @@ h2 {
     align-items: center;
     padding: 50px;
     position: relative;
-    top: 1rem;
+    top: 3rem;
 }
 
 
@@ -169,12 +169,9 @@ h6 {
 .contact h4 {
     position: relative;
     font-size: 1.5em;
+    top: 1rem;
 }
 
-.form {
-    position: relative;
-    bottom: 1rem;
-}
 
 .form input {
     width: 280px;
@@ -219,7 +216,7 @@ input:focus {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 8rem;
+    margin-top:13rem;
 
 }
 
@@ -290,7 +287,6 @@ input:focus {
     justify-content: space-between;
     max-width: 100%;
     padding: 5rem;
-   
 }
 .logo-footer h1{
     font-size: 3rem;
@@ -317,6 +313,7 @@ input:focus {
     color: white;
     margin-bottom: 1.5rem;
     opacity: 80%;
+    text-decoration: underline;
 }
 .sobre-footer a:hover{
     transition: 1s;
@@ -447,9 +444,10 @@ input:focus {
     .form {
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
         position: relative;
-        left: 1.5rem;
-
+        top: 2rem;
     }
 
     .contact h4 {
@@ -513,7 +511,7 @@ input:focus {
         text-align: center;
     }
     .logo-footer h5{
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         text-align: center;
         margin-bottom: 2rem;
     }
@@ -526,6 +524,6 @@ input:focus {
     }
     .social-media{
         position: relative;
-        right: 1.9rem;
+        right: 1rem;
     }
 }
