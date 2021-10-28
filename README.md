@@ -4,17 +4,17 @@
 
 # DESKTOP PROJECT
 
-<img src="codardesktop.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="assets/codardesktop.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 
 
 # MOBILE PROJECT
 <h1 align="center"> 
-    <img alt="Readme" title="Readme" height="50%" width="50%" src="mobile%20(2).png"> 
+    <img alt="Readme" title="Readme" height="50%" width="50%" src="assets/mobile%20(2).png"> 
 </h1>
 
 <div align="center" height="50" width="30">
 <a href="https://matheusvskt.github.io/codar-devchallenge/">
-<img alt="Readme" title="Readme" src="live.jpg"> 
+<img alt="Readme" title="Readme" src="assets/live.jpg"> 
 </a>
 </div>
 
