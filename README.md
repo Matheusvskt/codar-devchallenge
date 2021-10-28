@@ -9,7 +9,7 @@
 
 # MOBILE PROJECT
 <h1 align="center"> 
-    <img alt="Readme" title="Readme" src="mobile%20(2).png"> 
+    <img alt="Readme" title="Readme" height="50%" width="50%" src="mobile%20(2).png"> 
 </h1>
 
 <div align="center" height="50" width="30">
